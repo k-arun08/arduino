@@ -1,0 +1,3 @@
+- This repositry contains all of my best working programs for my arduino based RC car
+- I started learning about robotics, touch sensors, displays, distance sensors in mis-late 2024
+- By october I had sucessfully created a fully functioning car with self driving capabilities.
